@@ -16,7 +16,7 @@ A aplicação permite criar e organizar personagens, controlando atributos, equi
 
 ## Backend
 - Neon postgres
-Link para api: https://github.com/Doki-glitch/MySquire
+- Link para api: https://github.com/Doki-glitch/MySquire
 
 ## Tecnologias
 
