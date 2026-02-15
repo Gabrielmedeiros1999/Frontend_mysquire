@@ -14,6 +14,8 @@ A aplicação permite criar e organizar personagens, controlando atributos, equi
 - Área de anotações do jogador
 - Persistência de dados no cliente através de api 
 
+## Backend
+- Neon postgres
 Link para api: https://github.com/Doki-glitch/MySquire
 
 ## Tecnologias
