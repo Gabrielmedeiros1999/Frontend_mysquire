@@ -62,6 +62,7 @@ O MySquire reúne os principais recursos necessários para acompanhar um persona
 
 ## Backend
 
+- TypeScript
 - PostgreSQL (Neon)
 
 Repositório da API:
